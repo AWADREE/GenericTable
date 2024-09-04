@@ -66,8 +66,7 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-/*              */
 .table-responsive {
-  overflow-x: scroll;
-  overflow-y: scroll;
+  overflow-x: auto;
+  overflow-y: auto;
 }
